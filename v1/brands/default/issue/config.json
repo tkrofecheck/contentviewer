@@ -1,0 +1,45 @@
+{
+	"brandCode"                : "TK",
+	
+    "showBrandName"            : true,
+    "brandName"                : "Time for Kids",
+    
+    "showMagazineTitle"        : true,
+    "magazineTitle"            : "Who Will Be President?",
+    
+    "enableSubscribeButton"    : true,
+    "subscribeButtonText"      : "SUBSCRIBE",
+    "subscribeButtonUrl"       : "",
+    
+    "enableDragging"           : true,
+    "dragBookletText"          : "Dragging booklet is enabled.",
+    
+    "enableZoom"               : true,
+    "zoomInText"               : "Zoom In",
+    "zoomOutText"              : "Zoom Out",
+    "zoomLevel"                : 1.5,
+    
+    "showPrevNextButtons"      : true,
+    "prevButtonText"           : "Previous Page",
+    "nextButtonText"           : "Next Page",
+    
+    "pageFlipSpeed"            : 500,
+    "autoCenterBook"           : true,
+    "showPageNumbers"          : false,
+    "enableTapPageEdgeFlip"    : true,
+    "bookPageFolder"           : "pages",
+    "bookPages"                : [
+        {
+            "0" : "TK_20120914_1.jpg",
+            "1" : "TK_20120914_2.jpg",
+            "2" : "TK_20120914_3.jpg",
+            "3" : "TK_20120914_4.jpg",
+            "4" : "TK_20120914_5.jpg",
+            "5" : "TK_20120914_6.jpg",
+            "6" : "TK_20120914_7.jpg",
+            "7" : "TK_20120914_8.jpg"
+        }
+    ],
+    
+    "reloadPageText"           : "Reloading..."
+}

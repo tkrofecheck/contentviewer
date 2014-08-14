@@ -1,0 +1,45 @@
+{
+	"brandCode"                : "TK",
+	
+    "showBrandName"            : true,
+    "brandName"                : "Time for Kids",
+    
+    "showMagazineTitle"        : true,
+    "magazineTitle"            : "Hoping for Rain",
+    
+    "enableSubscribeButton"    : false,
+    "subscribeButtonText"      : "SUBSCRIBE",
+    "subscribeButtonUrl"       : "",
+    
+    "enableDragging"           : true,
+    "dragBookletText"          : "",
+    
+    "enableZoom"               : true,
+    "zoomInText"               : "Zoom In",
+    "zoomOutText"              : "Zoom Out",
+    "zoomLevel"                : 1.5,
+    
+    "showPrevNextButtons"      : true,
+    "prevButtonText"           : "Previous Page",
+    "nextButtonText"           : "Next Page",
+    
+    "pageFlipSpeed"            : 500,
+    "autoCenterBook"           : true,
+    "showPageNumbers"          : false,
+    "enableTapPageEdgeFlip"    : true,
+    "bookPageFolder"           : "pages",
+    "bookPages"                : [
+        {
+            "0" : "TK_20120921_1.jpg",
+            "1" : "TK_20120921_2.jpg",
+            "2" : "TK_20120921_3.jpg",
+            "3" : "TK_20120921_4.jpg",
+            "4" : "TK_20120921_5.jpg",
+            "5" : "TK_20120921_6.jpg",
+            "6" : "TK_20120921_7.jpg",
+            "7" : "TK_20120921_8.jpg"
+        }
+    ],
+    
+    "reloadPageText"           : "Reloading..."
+}

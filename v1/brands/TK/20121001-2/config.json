@@ -1,0 +1,41 @@
+{
+	"brandCode"                : "TK",
+	
+    "showBrandName"            : true,
+    "brandName"                : "Time for Kids",
+    
+    "showMagazineTitle"        : true,
+    "magazineTitle"            : "School Rules",
+    
+    "enableSubscribeButton"    : false,
+    "subscribeButtonText"      : "SUBSCRIBE",
+    "subscribeButtonUrl"       : "",
+    
+    "enableDragging"           : true,
+    "dragBookletText"          : "",
+    
+    "enableZoom"               : true,
+    "zoomInText"               : "Zoom In",
+    "zoomOutText"              : "Zoom Out",
+    "zoomLevel"                : 1.5,
+    
+    "showPrevNextButtons"      : true,
+    "prevButtonText"           : "Previous Page",
+    "nextButtonText"           : "Next Page",
+    
+    "pageFlipSpeed"            : 500,
+    "autoCenterBook"           : true,
+    "showPageNumbers"          : false,
+    "enableTapPageEdgeFlip"    : true,
+    "bookPageFolder"           : "pages",
+    "bookPages"                : [
+        {
+            "0" : "BP_20121001_1.jpg",
+            "1" : "BP_20121001_2.jpg",
+            "2" : "BP_20121001_3.jpg",
+            "3" : "BP_20121001_4.jpg"
+        }
+    ],
+    
+    "reloadPageText"           : "Reloading..."
+}

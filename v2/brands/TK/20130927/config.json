@@ -1,0 +1,46 @@
+{
+	"brandCode"                : "TK",
+	
+    "showBrandName"            : true,
+    "brandName"                : "Time for Kids",
+    
+    "showMagazineTitle"        : true,
+    "magazineTitle"            : "FORBIDDEN FOODS",
+    
+    "enableSubscribeButton"    : true,
+    "subscribeButtonText"      : "SUBSCRIBE",
+    "subscribeButtonUrl"       : "https://subscription.timeforkids.com/storefront/subscribe-to-time-for-kids/link/1013211.html",
+    
+    "enableDragging"           : true,
+    "dragBookletText"          : "",
+    
+    "enableZoom"               : true,
+    "zoomInText"               : "Zoom In",
+    "zoomOutText"              : "Zoom Out",
+    "zoomLevel"                : 1.5,
+    
+    "showPrevNextButtons"      : true,
+    "prevButtonText"           : "Previous Page",
+    "nextButtonText"           : "Next Page",
+    
+    "pageFlipSpeed"            : 500,
+    "autoCenterBook"           : true,
+    "showPageNumbers"          : false,
+    "enableTapPageEdgeFlip"    : true,
+    "bookPageFolder"           : "pages",
+    "bookPages"                : [
+        {
+            "0" : "TFKG3_20130927_1.jpg",
+            "1" : "TFKG3_20130927_2.jpg",
+            "2" : "TFKG3_20130927_3.jpg",
+            "3" : "TFKG3_20130927_4.jpg",
+            "4" : "TFKG3_20130927_5.jpg",
+            "5" : "TFKG3_20130927_6.jpg",
+            "6" : "TFKG3_20130927_7.jpg",
+            "7" : "TFKG3_20130927_8.jpg"
+       
+        }
+    ],
+    
+    "reloadPageText"           : "Reloading..."
+}
